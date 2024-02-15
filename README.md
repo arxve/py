@@ -1,4 +1,4 @@
-# PyComp
+# py
 
 A compilation of Python scripts curated to streamline various tasks, workflows and to have some fun.
 
@@ -8,7 +8,7 @@ A compilation of Python scripts curated to streamline various tasks, workflows a
 
 - **Description**: Encode strings using Base64 encoding.
 - **Usage**: 
-  - To encode: `python base64_encoder.py"`
+  - To encode: `python base64_encoder.py`
 <!--  - To decode: `python base64_encoder.py -d "encoded_string"` -->
 
 ### Caesar Cipher
