@@ -1,6 +1,6 @@
 # py
 
-A compilation of Python scripts curated to streamline various tasks, workflows and to have some fun.
+A compilation of Python scripts curated to streamline various tasks, and workflows and have fun.
 
 ## Included Scripts
 
@@ -13,20 +13,20 @@ A compilation of Python scripts curated to streamline various tasks, workflows a
 
 ### Caesar Cipher
 
-- **Description**: Encrypt messages using the Caesar cipher.
+- **Description**: Encrypt messages using the Caesar cypher.
 - **Usage**: 
   - To encrypt: `python caesar_cipher.py`
 <!--  - To decrypt: `python caesar_cipher.py "encrypted_message" shift_value` -->
 
 ### Diff
 
-- **Description**: Compare two strings and display the differences between them.
+- **Description**: Compare two strings and display their differences.
 - **Usage**: 
   - `python diff.py`
 
 ### Has Duplicate Letters
 
-- **Description**: Check if a given string has any duplicate letters.
+- **Description**: Check if a given string has duplicate letters.
 - **Usage**: 
   - `python has_duplicate_letters.py`
 
